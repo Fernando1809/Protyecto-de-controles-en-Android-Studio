@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BASE DE DATOS DE ESTUDIANTES</string>
+    <string name="titulo">Datos de usuario</string>
+    <string name="nombre">Escriba su nombre</string>
+    <string name="apellido">Escriba su apellido</string>
+    <string name="enviarDatos">ENVIAR DATOS</string>
+    <string name="Botonsiguiente">siguiente</string>
+
+    //segunda parte del proyecto deteminacion de edad
+
+    <string name="titulo2">Registro de edad</string>
+    <string name="nombre2">Escriba su nombre</string>
+    <string name="edad">Escriba su edad</string>
+    <string name="enviarDatos_de_edad">ENVIAR DATOS</string>
+    <string name="volver">PANTALLA ANTERIOR</string>
+    <string name="Resultados">Resultados de Edad</string>
+    <string name="edad2">su edad es</string>
+</resources>
